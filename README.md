@@ -4,7 +4,7 @@
 
 This repository contains a comprehensive solution for Python Screening Task 2: creating a prompt for an AI debugging assistant that helps students learn Python programming without revealing direct solutions.
 
-## 📁 Repository Contents
+##  Repository Contents
 
 ### Core Files
 
@@ -14,7 +14,7 @@ This repository contains a comprehensive solution for Python Screening Task 2: c
 - **`Example_Scenarios.md`** - Practical demonstrations of the prompt in action
 - **`README.md`** - This file with setup instructions and overview
 
-## 🎯 Prompt Objectives
+##  Prompt Objectives
 
 The AI debugging assistant prompt is designed to:
 
@@ -24,7 +24,7 @@ The AI debugging assistant prompt is designed to:
 4. **Adapt to Skill Levels**: Work effectively with both beginner and advanced Python learners
 5. **Develop Independence**: Foster critical thinking and self-reliance in problem-solving
 
-## 🚀 Setup Instructions
+##  Setup Instructions
 
 ### Prerequisites
 - No special software required
@@ -51,24 +51,24 @@ You can test the prompt effectiveness by:
    - Does it maintain an encouraging tone?
    - Does it teach debugging skills?
 
-## 📋 Submission Checklist
+## Submission Checklist
 
-- ✅ **Prompt is clear, specific, and well-structured**
+-  **Prompt is clear, specific, and well-structured**
   - Main prompt provides comprehensive instructions for AI behavior
   - Clear guidelines on what to do and what to avoid
   - Structured response framework included
 
-- ✅ **Reasoning is thoughtful and well-articulated**
+-  **Reasoning is thoughtful and well-articulated**
   - Design choices explained with educational psychology principles
   - Specific examples of implementation strategies
   - Adaptation strategies for different skill levels provided
 
-- ✅ **Includes reasoning answers**
+-  **Includes reasoning answers**
   - Tone and style recommendations with examples
   - Balance strategy between bug identification and student guidance
   - Detailed adaptation approaches for beginner vs. advanced learners
 
-## 🧠 Key Design Principles
+##  Key Design Principles
 
 ### Educational Approach
 - **Socratic Method**: Uses strategic questioning to guide discovery
@@ -88,7 +88,7 @@ You can test the prompt effectiveness by:
 - **Variable Scaffolding**: Provides more or less support based on demonstrated ability
 - **Universal Principles**: Maintains core educational values across all interactions
 
-## 📖 How to Use This Repository
+## How to Use This Repository
 
 ### For Educators
 1. Review the main prompt and adapt it for your specific teaching context
@@ -106,7 +106,7 @@ You can test the prompt effectiveness by:
 2. Use the design principles to create similar educational AI tools
 3. Adapt the framework for other programming languages or subjects
 
-## 🔍 Validation and Testing
+##  Validation and Testing
 
 The prompt has been designed with consideration for:
 
@@ -115,16 +115,11 @@ The prompt has been designed with consideration for:
 - **Scalability**: Works with different AI models and educational contexts
 - **Measurable Outcomes**: Focuses on developing skills that can be assessed
 
-## 📞 Contact Information
-
-For questions about this submission:
-- **Email**: [pythonsupport@fossee.in]
-- **Subject Line**: Python Screening Task 2 - AI Debugging Assistant Prompt
-
-## 📄 License
+##  License
 
 This work is submitted as part of the FOSSEE Python Screening Task 2 evaluation process.
 
 ---
+
 
 *This repository demonstrates a comprehensive approach to educational AI prompt design, balancing pedagogical effectiveness with practical implementation considerations.*
